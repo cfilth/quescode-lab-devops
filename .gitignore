@@ -3,3 +3,6 @@ backend-scm/node_modules/
 backend-user/node_modules/
 backend-scm/config/keys-dev.js
 backend-user/config/keys-dev.js
+devops_files/
+docker-compose.yml
+ns.yaml

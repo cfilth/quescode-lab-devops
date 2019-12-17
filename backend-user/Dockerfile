@@ -3,5 +3,5 @@ WORKDIR /home/cfilth/lab-devops/backend-user/
 COPY package*.json ./
 RUN npm install 
 COPY . . 
-EXPOSE 3020
+EXPOSE 30020
 CMD ["npm","start"]
