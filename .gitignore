@@ -1,0 +1,5 @@
+frontend/node_modules/
+backend-scm/node_modules/
+backend-user/node_modules/
+backend-scm/config/keys-dev.js
+backend-user/config/keys-dev.js
